@@ -18,16 +18,22 @@
 </div>
 
 
+### Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=todo-vue&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Contatos
+
+
 <div align="center"> 
+
 
 <a href = "mailto:cmp.1a.gustavomarkes1998@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-marques-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
 
- 
- 
-### Habilidades
+ ### Habilidades
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
