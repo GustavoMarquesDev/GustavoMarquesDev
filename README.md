@@ -18,8 +18,8 @@
 </div>
 
 
-### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=todo-vue&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Projeto principal
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=Lista_de_Tarefas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contatos
