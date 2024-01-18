@@ -13,7 +13,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoMarquesDev&show_icons=true&count_private=true&hide_border=true&title_color=0d1117&icon_color=0d1117&text_color=0d1117&bg_color=48D1CC" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoMarquesDev&show_icons=true&count_private=true&hide_border=true&title_color=0d1117&icon_color=0d1117&text_color=0d1117&bg_color=48D1CC" alt="Gustavo Marques github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMarquesDev&layout=compact&hide_border=true&title_color=0d1117&text_color=0d1117&bg_color=48D1CC" />
 </div>
 
