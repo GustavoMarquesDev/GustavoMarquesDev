@@ -27,9 +27,9 @@
 
 
 
-### Projeto principal
+### Projetos principais
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=Lista_de_Tarefas&theme=dark)](https://github.com/GustavoMarquesDev/Lista_de_Tarefas)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=Lista_de_Contatos&theme=dark)](https://github.com/GustavoMarquesDev/Lista_de_Contatos)
 
 
 ### Contatos
