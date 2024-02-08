@@ -32,7 +32,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=Lista_de_Contatos&theme=dark)](https://github.com/GustavoMarquesDev/Lista_de_Contatos)
 
 
-### Contatos
+### Contato
 
 
 <div align="center"> 
