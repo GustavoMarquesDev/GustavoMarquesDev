@@ -29,7 +29,10 @@
 
 ### Projetos principais
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=EPlay&theme=dark)](https://github.com/GustavoMarquesDev/EPlay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=E-Food&theme=dark)](https://github.com/GustavoMarquesDev/E-Food)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=Lista_de_Contatos&theme=dark)](https://github.com/GustavoMarquesDev/Lista_de_Contatos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=Lista_de_Tarefas&theme=dark)](https://github.com/GustavoMarquesDev/Lista_de_Tarefas)
+
 
 
 ### Contato
