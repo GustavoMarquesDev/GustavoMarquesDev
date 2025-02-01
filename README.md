@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=100&section=header&fontSize=50&fontColor=fff&animation=fadeIn&width=2000)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=150&section=header&fontSize=50&fontColor=fff&animation=fadeIn&width=2000)
 
 
 
@@ -90,7 +90,7 @@
   <img src="https://profile-counter.glitch.me/{GustavoMarquesDev}/count.svg"/>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=100&section=footer&fontSize=20&fontColor=fff&animation=fadeIn&width=2000)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=150&section=footer&fontSize=20&fontColor=fff&animation=fadeIn&width=2000)
 
 
 
