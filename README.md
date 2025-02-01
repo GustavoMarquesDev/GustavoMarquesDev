@@ -78,9 +78,15 @@
 ## 📬 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gustavo-marques-dos-santos/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:gustavo-markes@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://wa.me/5518997135321"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-marques-dos-santos/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gustavo-markes@hotmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width="40" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/5518997135321">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" width="40" alt="WhatsApp"/>
+  </a>
 </div>
 
 ---
