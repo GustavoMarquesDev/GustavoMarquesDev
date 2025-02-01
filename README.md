@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&width=1000&section=header)
+![Header](https://link-da-imagem-gerada.com/onda-header.png)
+
 
 
 
@@ -85,7 +86,8 @@
   <img src="https://profile-counter.glitch.me/{GustavoMarquesDev}/count.svg"/>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&width=1000&section=footer)
+![Footer](https://link-da-imagem-gerada.com/onda-footer.png)
+
 
 
 
