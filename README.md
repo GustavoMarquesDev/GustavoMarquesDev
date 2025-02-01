@@ -46,7 +46,8 @@
 
 
 [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/gustavo-marques-dos-santos/)
-[<img src="https://skillicons.dev/icons?i=gmail" />](gustavo-markes@hotmail.com/)
+[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:gustavo-markes@hotmail.com)
+
  </div>
 
 
