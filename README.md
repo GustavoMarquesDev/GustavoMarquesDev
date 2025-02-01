@@ -80,13 +80,13 @@
 <div align="center">
   
   <a href="https://www.linkedin.com/in/gustavo-marques-dos-santos/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" width="40" alt="LinkedIn" style="color: #00CED1;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" width="40" alt="LinkedIn" style="background-color: #00CED1; padding: 5px; border-radius: 50%;"/>
   </a>
   <a href="mailto:gustavo-markes@hotmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width="40" alt="Gmail" style="color: #00CED1;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width="40" alt="Gmail" style="background-color: #00CED1; padding: 5px; border-radius: 50%;"/>
   </a>
   <a href="https://wa.me/5518997135321">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" width="40" alt="WhatsApp" style="color: #00CED1;"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" width="40" alt="WhatsApp" style="background-color: #00CED1; padding: 5px; border-radius: 50%;"/>
   </a>
 
 </div>
