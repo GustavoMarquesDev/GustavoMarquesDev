@@ -1,4 +1,5 @@
-![Header](<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header"/>)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header&text=Olá!+Eu+Sou+Gustavo+Marques&fontSize=50&fontColor=fff&animation=fadeIn)
+
 
 
 
