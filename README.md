@@ -78,17 +78,15 @@
 ## 📬 Contato
 
 <div align="center">
-  
   <a href="https://www.linkedin.com/in/gustavo-marques-dos-santos/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" width="40" alt="LinkedIn" style="filter: invert(45%) sepia(89%) saturate(2043%) hue-rotate(164deg) brightness(90%) contrast(90%);"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%2300CED1?style=for-the-badge&logo=linkedin&logoColor=white" width="120" alt="LinkedIn"/>
   </a>
   <a href="mailto:gustavo-markes@hotmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" width="40" alt="Gmail" style="filter: invert(45%) sepia(89%) saturate(2043%) hue-rotate(164deg) brightness(90%) contrast(90%);"/>
+    <img src="https://img.shields.io/badge/Gmail-%2300CED1?style=for-the-badge&logo=gmail&logoColor=white" width="120" alt="Gmail"/>
   </a>
   <a href="https://wa.me/5518997135321">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/whatsapp.svg" width="40" alt="WhatsApp" style="filter: invert(45%) sepia(89%) saturate(2043%) hue-rotate(164deg) brightness(90%) contrast(90%);"/>
+    <img src="https://img.shields.io/badge/WhatsApp-%2300CED1?style=for-the-badge&logo=whatsapp&logoColor=white" width="120" alt="WhatsApp"/>
   </a>
-
 </div>
 
 ---
