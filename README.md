@@ -9,7 +9,7 @@
 ### Habilidades
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,django,nginx,seleniumpostgresql,react,html,css,javascript,github,typescript,sass,redux" />
+  <img src="https://skillicons.dev/icons?i=python,linux,django,nginx,selenium,postgresql,react,html,css,javascript,github,typescript,sass,redux" />
 </div>
 
 ####
