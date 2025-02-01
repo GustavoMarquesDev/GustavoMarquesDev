@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=1200&width=10px&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&width=300&section=header)
 
 <h1 align="center"> Olá! Eu sou Gustavo Marques 👋</h1>
 
