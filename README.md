@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&width=1000&section=header)
+
 
 
 <h1 align="center"> Olá! Eu sou Gustavo Marques 👋</h1>
@@ -84,6 +85,7 @@
   <img src="https://profile-counter.glitch.me/{GustavoMarquesDev}/count.svg"/>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&width=1000&section=footer)
+
 
 
