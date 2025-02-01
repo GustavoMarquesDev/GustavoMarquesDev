@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=200&section=header&text=Olá!+Eu+Sou+Gustavo+Marques&fontSize=50&fontColor=fff&animation=fadeIn&width=2000)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=200&section=header&fontSize=50&fontColor=fff&animation=fadeIn&width=2000)
 
 
 
