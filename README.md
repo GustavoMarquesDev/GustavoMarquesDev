@@ -10,7 +10,7 @@
 <h1 align="center"> Olá! Eu sou Gustavo Marques 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Python+|+Django;Buscando+transição+de+carreira;Apaixonado+por+tecnologia!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Python+|+Django;Buscando+transição+de+carreira;Apaixonado+por+tecnologia!!!;=D"/>
 </p>
 
 ---
