@@ -90,7 +90,8 @@
   <img src="https://profile-counter.glitch.me/{GustavoMarquesDev}/count.svg"/>
 </p>
 
-![Footer](https://link-da-imagem-gerada.com/onda-footer.png)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=100&section=footer&fontSize=20&fontColor=fff&animation=fadeIn&width=2000)
+
 
 
 
