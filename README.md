@@ -47,7 +47,8 @@
 
 [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/gustavo-marques-dos-santos/)
 [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:gustavo-markes@hotmail.com)
-[<img src="https://skillicons.dev/icons?i=whatsapp" />](https://wa.me/5599999999999)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" />](https://wa.me/5518997135321)
+
 
 
  </div>
