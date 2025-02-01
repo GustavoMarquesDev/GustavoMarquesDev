@@ -78,15 +78,20 @@
 ## 📬 Contato
 
 <div align="center">
+  ## 📬 Contato
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gustavo-marques-dos-santos/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" width="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" width="60" alt="LinkedIn" style="filter: invert(45%) sepia(89%) saturate(2043%) hue-rotate(164deg) brightness(90%) contrast(90%);"/>
   </a>
   <a href="mailto:gustavo-markes@hotmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width="40" alt="Gmail"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width="60" alt="Gmail" style="filter: invert(45%) sepia(89%) saturate(2043%) hue-rotate(164deg) brightness(90%) contrast(90%);"/>
   </a>
   <a href="https://wa.me/5518997135321">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" width="40" alt="WhatsApp"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/whatsapp.svg" width="60" alt="WhatsApp" style="filter: invert(45%) sepia(89%) saturate(2043%) hue-rotate(164deg) brightness(90%) contrast(90%);"/>
   </a>
+</div>
+
 </div>
 
 ---
