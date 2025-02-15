@@ -92,9 +92,9 @@
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake-dark.svg?color_snake=007BFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake.svg?color_snake=007BFF">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake.svg?color_snake=007BFF">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake-dark.svg?color_snake=00CED1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake.svg?color_snake=00CED1">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake.svg?color_snake=00CED1">
 </picture>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=150&section=footer&fontSize=20&fontColor=fff&animation=fadeIn&width=2000)
