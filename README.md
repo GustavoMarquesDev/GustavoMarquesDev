@@ -1,12 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=150&section=header&fontSize=50&fontColor=fff&animation=fadeIn&width=2000)
 
 
-
-
-
-
-
-
 <h1 align="center"> Olá! Eu sou Gustavo Marques 👋</h1>
 
 <p align="center">
@@ -37,6 +31,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoMarquesDev&show_icons=true&count_private=true&hide_border=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMarquesDev&layout=compact&hide_border=true&theme=dracula"/>
 </div>
+
+---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake-dark.svg?color_snake=00CED1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake.svg?color_snake=00CED1">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake.svg?v=2">
+</picture>
 
 ---
 
@@ -89,14 +91,6 @@
   <b>Contador de visitas:</b><br>
   <img src="https://profile-counter.glitch.me/{GustavoMarquesDev}/count.svg"/>
 </p>
-
-
-<!-- picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake-dark.svg?color_snake=00CED1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake.svg?color_snake=00CED1">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake.svg?v=2">
-</picture-->
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=150&section=footer&fontSize=20&fontColor=fff&animation=fadeIn&width=2000)
 
