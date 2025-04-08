@@ -34,13 +34,6 @@
 
 ---
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake-dark.svg?color_snake=00CED1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake.svg?color_snake=00CED1">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/github-contribution-grid-snake.svg?v=2">
-</picture>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/pacman-contribution-graph-dark.svg">
