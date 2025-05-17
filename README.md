@@ -63,12 +63,6 @@
 ## 🚀 Projetos Principais
 
 <div align="center">
-   <a href="https://github.com/GustavoMarquesDev/agenda_django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=agenda_django&theme=dark"/>
-  </a>
-  <a href="https://github.com/GustavoMarquesDev/agenda_django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=agenda_django&theme=dark"/>
-  </a>
   <a href="https://github.com/GustavoMarquesDev/EPlay">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=EPlay&theme=dark"/>
   </a>
