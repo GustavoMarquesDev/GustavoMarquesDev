@@ -64,7 +64,7 @@
 
 <div align="center">
   <a href="https://github.com/GustavoMarquesDev/agenda_django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=agenda_django&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=agenda_django&theme=dark&cache_seconds=60"/>
   </a>
   <a href="https://github.com/GustavoMarquesDev/EPlay">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=EPlay&theme=dark"/>
