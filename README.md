@@ -63,9 +63,7 @@
 ## 🚀 Projetos Principais
 
 <div align="center">
-  <a href="https://github.com/GustavoMarquesDev/blog_django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=blog_django&theme=dark"/>
-  </a>
+  
   <a href="https://github.com/GustavoMarquesDev/EPlay">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=EPlay&theme=dark"/>
   </a>
