@@ -89,11 +89,6 @@
 
 ---
 
-<p align="center">
-  <b>Contador de visitas:</b><br>
-  <img src="https://profile-counter.glitch.me/{GustavoMarquesDev}/count.svg"/>
-</p>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=150&section=footer&fontSize=20&fontColor=fff&animation=fadeIn&width=2000)
 
 
