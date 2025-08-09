@@ -64,18 +64,19 @@
 
 <div align="center">
   <a href="https://github.com/GustavoMarquesDev/ecommerce_django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=ecommerce_django&theme=dark&cache_seconds=5"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=ecommerce_django&theme=dark&cache_seconds=5&v=2"/>
   </a>
   <a href="https://github.com/GustavoMarquesDev/blog_django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=blog_django&theme=dark&cache_seconds=5"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=blog_django&theme=dark&cache_seconds=5&v=2"/>
   </a>
   <a href="https://github.com/GustavoMarquesDev/agenda_django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=agenda_django&theme=dark&cache_seconds=10"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=agenda_django&theme=dark&cache_seconds=5&v=2"/>
   </a>
   <a href="https://github.com/GustavoMarquesDev/EPlay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=EPlay&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=EPlay&theme=dark&cache_seconds=5&v=2"/>
   </a>
 </div>
+
 
 ---
 
