@@ -75,9 +75,6 @@
   <a href="https://github.com/GustavoMarquesDev/EPlay">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=EPlay&theme=dark"/>
   </a>
-  <a href="https://github.com/GustavoMarquesDev/E-Food">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=E-Food&theme=dark"/>
-  </a>
 </div>
 
 ---
