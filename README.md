@@ -72,8 +72,8 @@
   <a href="https://github.com/GustavoMarquesDev/agenda_django">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=agenda_django&theme=dark&cache_seconds=5&v=2"/>
   </a>
-  <a href="https://github.com/GustavoMarquesDev/EPlay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=EPlay&theme=dark&cache_seconds=5&v=2"/>
+  <a href="https://github.com/GustavoMarquesDev/fala_dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=fala_dev&theme=dark&cache_seconds=5&v=2"/>
   </a>
 </div>
 
