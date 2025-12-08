@@ -66,11 +66,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GustavoMarquesDev&theme=dracula&row=2&column=3&no-bg=true&margin-w=15&margin-h=15"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/GustavoMarquesDev/GustavoMarquesDev/output/snake.svg" alt="Snake animation" />
 
 
 ---
 
+<!--
 ## 🚀 Projetos Principais
 
 <div align="center">
@@ -87,6 +87,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMarquesDev&repo=fala_dev&theme=dark&cache_seconds=5&v=2"/>
   </a>
 </div>
+-->
 
 
 ---
