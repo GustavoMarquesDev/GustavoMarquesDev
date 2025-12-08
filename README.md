@@ -25,12 +25,18 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+<!-- ## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoMarquesDev&show_icons=true&count_private=true&hide_border=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMarquesDev&layout=compact&hide_border=true&theme=dracula"/>
 </div>
+-->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GustavoMarquesDev&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GustavoMarquesDev&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMarquesDev&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
