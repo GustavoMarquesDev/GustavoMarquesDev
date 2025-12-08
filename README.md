@@ -96,6 +96,10 @@
   <a href="https://wa.me/5518997135321"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="60" /></a>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GustavoMarquesDev.GustavoMarquesDev&left_color=blue&right_color=turquoise"  />
+</div>
+
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=150&section=footer&fontSize=20&fontColor=fff&animation=fadeIn&width=2000)
