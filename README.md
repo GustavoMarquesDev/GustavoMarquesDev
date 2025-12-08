@@ -96,9 +96,7 @@
   <a href="https://wa.me/5518997135321"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="60" /></a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GustavoMarquesDev.GustavoMarquesDev&left_color=blue&right_color=turquoise"  />
-</div>
+
 
 ---
 
