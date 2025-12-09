@@ -60,7 +60,7 @@
 
 
 
-### 🔝 Top Contributed Repo
+### 🔝 Repositórios com maior contribuição
 ![](https://github-contributor-stats.vercel.app/api?username=GustavoMarquesDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
