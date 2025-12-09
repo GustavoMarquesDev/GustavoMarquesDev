@@ -58,14 +58,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoMarquesDev&bg_color=0d1117&color=00CED1&line=48D1CC&point=48D1CC&area=true&hide_border=true"/>
 </p>
 
----
+<!---
 
 ## 🏆 Conquistas
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GustavoMarquesDev&theme=dracula&row=2&column=3&no-bg=true&margin-w=15&margin-h=15"/>
 </p>
-
+-->
 
 
 
