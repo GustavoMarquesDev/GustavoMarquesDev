@@ -58,10 +58,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoMarquesDev&bg_color=0d1117&color=00CED1&line=48D1CC&point=48D1CC&area=true&hide_border=true"/>
 </p>
 
+<div align="center">
+  ### 🔝 Repositórios com maior contribuição
+  ![](https://github-contributor-stats.vercel.app/api?username=GustavoMarquesDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
-
-### 🔝 Repositórios com maior contribuição
-![](https://github-contributor-stats.vercel.app/api?username=GustavoMarquesDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
