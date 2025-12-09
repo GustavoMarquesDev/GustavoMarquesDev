@@ -58,6 +58,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoMarquesDev&bg_color=0d1117&color=00CED1&line=48D1CC&point=48D1CC&area=true&hide_border=true"/>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GustavoMarquesDev&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GustavoMarquesDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=GustavoMarquesDev&icon=2&color=1)](https://visitcount.itsvg.in)
+
 <!---
 
 ## 🏆 Conquistas
