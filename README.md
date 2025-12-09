@@ -109,8 +109,6 @@
 
 
 
----
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=150&section=footer&fontSize=20&fontColor=fff&animation=fadeIn&width=2000)
 
 
