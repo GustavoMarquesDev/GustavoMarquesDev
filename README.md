@@ -104,7 +104,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-marques-dos-santos/"><img src="https://skillicons.dev/icons?i=linkedin" width="60" /></a>
-  <a href="mailto:gustavo-markes@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" /></a>
   <a href="https://wa.me/5518997135321"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="60" /></a>
 </div>
 
