@@ -39,9 +39,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=GustavoMarquesDev&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GustavoMarquesDev&theme=prussian&hide_border=false)<br/>
 
-<img width="49%" height="195px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMarquesDev&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
 
 ---
 
